@@ -21,7 +21,7 @@ Puedes ver una captura de la interfaz a continuación:
 
 ## 📁 Estructura del Proyecto
 
-\`\`\`plaintext
+
 clip-projects-main/
 ├── public/
 │   └── vite.svg              # Icono de Vite
@@ -37,7 +37,7 @@ clip-projects-main/
 ├── package.json              # Configuración de dependencias
 ├── vite.config.js            # (opcional, si se incluye configuración extra)
 └── README.md                 # Este archivo
-\`\`\`
+
 
 ---
 
@@ -45,22 +45,22 @@ clip-projects-main/
 
 1. **Clona el repositorio**:
 
-   \`\`\`bash
+ 
    git clone https://github.com/tuusuario/clip-demo.git
    cd clip-demo
-   \`\`\`
+   
 
 2. **Instala las dependencias**:
 
-   \`\`\`bash
+   
    npm install
-   \`\`\`
+  
 
 3. **Inicia el servidor de desarrollo**:
 
-   \`\`\`bash
+
    npm run dev
-   \`\`\`
+   
 
 4. **Abre tu navegador** y visita: \`http://localhost:5173\`
 
