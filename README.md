@@ -21,6 +21,7 @@ Puedes ver una captura de la interfaz a continuación:
 
 ## 📁 Estructura del Proyecto
 
+```
 
 clip-projects-main/
 ├── public/
@@ -37,7 +38,7 @@ clip-projects-main/
 ├── package.json              # Configuración de dependencias
 ├── vite.config.js            # (opcional, si se incluye configuración extra)
 └── README.md                 # Este archivo
-
+```
 
 ---
 
