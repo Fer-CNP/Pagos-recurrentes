@@ -77,21 +77,6 @@ clip-projects-main/
 
 ---
 
-## ✍️ Autor
-
-- **Tu Nombre** – [@tuusuario](https://github.com/tuusuario)
-
----
-
-## ✅ To-Do
-
-- [ ] Agregar más componentes reutilizables
-- [ ] Añadir responsividad para móviles
-- [ ] Implementar modo oscuro
-- [ ] Optimizar carga de imágenes
-- [ ] Escribir pruebas unitarias para los componentes
-
----
 
 ## 📄 Licencia
 
