@@ -56,13 +56,15 @@ clip-projects-main/
    ```ruby
    npm install
   
-```
+   ```
 3. **Inicia el servidor de desarrollo**:
+
 ```ruby
 
    npm run dev
-   
+
 ```
+
 4. **Abre tu navegador** y visita: \`http://localhost:5173\`
 
 ---
