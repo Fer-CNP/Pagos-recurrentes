@@ -45,24 +45,24 @@ clip-projects-main/
 ## 🛠️ Instalación y Ejecución
 
 1. **Clona el repositorio**:
-
+```ruby
  
    git clone https://github.com/tuusuario/clip-demo.git
    cd clip-demo
-   
+```
 
 2. **Instala las dependencias**:
 
-   
+   ```ruby
    npm install
   
-
+```
 3. **Inicia el servidor de desarrollo**:
-
+```ruby
 
    npm run dev
    
-
+```
 4. **Abre tu navegador** y visita: \`http://localhost:5173\`
 
 ---
